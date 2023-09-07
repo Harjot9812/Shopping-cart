@@ -1,1 +1,1 @@
-# To-do-app
+# Shopping cart
